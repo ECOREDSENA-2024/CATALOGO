@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **sena-base-2021 v7.0.0**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/ECOREDSENA_CATALOGO_WEB/](https://ecored-sena.github.io/ECOREDSENA_CATALOGO_WEB/)
 
 #
 
